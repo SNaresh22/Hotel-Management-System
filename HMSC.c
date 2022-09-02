@@ -119,9 +119,9 @@ int main(){     // MAIN FUNCTION
 	printf("\t\t*                                               *\n");
 	printf("\t\t*                                               *\n");
 	printf("\t\t*                                               *\n");
-	printf("\t\t*    Brought To You By code-projects.org        *\n");
+	printf("\t\t*    Brought To You By NARESH        *\n");
 	printf("\t\t*                 ESP,XYZ                       *\n");
-	printf("\t\t*     CONTACT US:18-87454575552,035455852       *\n");
+	printf("\t\t*     CONTACT US:0123456789       *\n");
 	printf("\t\t*************************************************\n\n\n");
 		for(i=0;i<80;i++)
 		printf("-");
